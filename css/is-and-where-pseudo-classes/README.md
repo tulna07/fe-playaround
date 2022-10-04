@@ -3,7 +3,7 @@
 🎮 [codesandbox][codesandbox]
 
 
-[codesanbox]: https://codesandbox.io/s/is-and-where-pseudo-classes-82s31w?file=/style.css:0-744
+[codesandbox]: https://codesandbox.io/s/is-and-where-pseudo-classes-82s31w?file=/style.css:0-744
 
 ## References
 
